@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
