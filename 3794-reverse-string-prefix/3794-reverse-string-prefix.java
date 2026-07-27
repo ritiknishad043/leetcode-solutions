@@ -1,12 +1,12 @@
 class Solution {
     public String reversePrefix(String s, int k) {
-        String result="";
+        StringBuilder result = new StringBuilder();
         for(int i=k-1;i>=0;i--){
-            result+=s.charAt(i);
+            result.append(s.charAt(i));
         }
         for(int i=k;i<s.length();i++){
-            result+=s.charAt(i);
+            result.append(s.charAt(i));
         }
-        return result;
+        return result.toString();
     }
 }
