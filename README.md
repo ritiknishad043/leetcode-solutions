@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
