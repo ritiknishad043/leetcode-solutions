@@ -6,14 +6,10 @@ class Solution {
         Arrays.sort(people);
         while(start<=end){
             if(people[start]+people[end]<=limit){
-                count++;
                 start++;
-                end--;
             }
-            else if(people[start]+people[end]>limit){
-                count++;
-                end--;
-            }
+            count++;
+            end--;
         }
         return count;
     }
