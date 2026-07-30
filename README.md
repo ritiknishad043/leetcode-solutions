@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
