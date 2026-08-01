@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
