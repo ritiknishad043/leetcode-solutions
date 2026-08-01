@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2942-find-words-containing-character](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
 | ------- |
