@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0164-maximum-gap](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0268-missing-number) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
