@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2942-find-words-containing-character](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3794-reverse-string-prefix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
