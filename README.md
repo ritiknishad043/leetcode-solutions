@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1446-consecutive-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
