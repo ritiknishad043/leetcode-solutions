@@ -8,11 +8,10 @@ class Solution {
             map.put(num,map.getOrDefault(num,0)+1);
             
         }
-        for(int num: unique){
-            uniquevalue.add(map.get(num));  
-        }
-        if(unique.size()!=uniquevalue.size()){
-            return false;
+        for (int num : map.keySet()) {
+            if (!uniquevalue.add(map.get(num))) {
+                return false;
+            }
         }
         return true;
     }
