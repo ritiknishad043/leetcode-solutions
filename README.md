@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
