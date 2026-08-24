@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
 |  |
