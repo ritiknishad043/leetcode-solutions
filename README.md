@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
