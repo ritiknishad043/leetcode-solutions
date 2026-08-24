@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
