@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
 | ------- |
