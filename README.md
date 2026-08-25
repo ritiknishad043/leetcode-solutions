@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
