@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3136-valid-word) |
+| [3174-clear-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3959-check-good-integer) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
