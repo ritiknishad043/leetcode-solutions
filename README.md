@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3959-check-good-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3959-check-good-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
