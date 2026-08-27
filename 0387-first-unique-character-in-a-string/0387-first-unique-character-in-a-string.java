@@ -1,14 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer>  hash =new HashMap<>();
-        int n=s.length();
-        for(int i=0;i<n;i++){
+        int[] freq=new int[26];
+        for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            hash.put(ch,hash.getOrDefault(ch, 0) + 1);
+            freq[ch-'a']++;
         }
-        for(int i=0;i<n;i++){
-            char ch1=s.charAt(i);
-            if(hash.get(ch1)==1){
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            if(freq[ch-'a']==1){
                 return i;
             }
         }
