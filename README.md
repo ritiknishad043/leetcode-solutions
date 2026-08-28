@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
