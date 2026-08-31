@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2129-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Recursion
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2427-number-of-common-factors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
