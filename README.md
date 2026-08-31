@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3151-special-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3959-check-good-integer) |
@@ -560,4 +563,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
