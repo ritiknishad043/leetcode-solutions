@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
@@ -530,10 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bracket Sequences
 |  |
 | ------- |
