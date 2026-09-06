@@ -21,7 +21,7 @@ class ParkingSystem {
                 return true;
             }
         }
-        else{
+        else if(carType==3){
             if(small>0){
                 small--;
                 return true;
