@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -594,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
