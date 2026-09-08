@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0877-stone-game) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Math
 |  |
 | ------- |
