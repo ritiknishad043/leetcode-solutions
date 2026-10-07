@@ -13,7 +13,7 @@ class Solution {
             for(int i=left;i<=right;i++){
                 matrix[top][i]=num++;
             }
-            top++;
+            top++;          
             //Right col
             for(int i=top;i<=bottom;i++){
                 matrix[i][right]=num++;
