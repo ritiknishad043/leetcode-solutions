@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
