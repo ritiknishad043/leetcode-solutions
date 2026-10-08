@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0877-stone-game) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Math
