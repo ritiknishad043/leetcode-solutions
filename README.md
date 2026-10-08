@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2460-apply-operations-to-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3028-ant-on-the-boundary) |
