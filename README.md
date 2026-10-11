@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3912-valid-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Dynamic Programming
 |  |
