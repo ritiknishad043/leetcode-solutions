@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ritiknishad043/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
