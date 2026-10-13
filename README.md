@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1360-number-of-days-between-two-dates](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
