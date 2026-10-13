@@ -1,23 +1,43 @@
+// class Solution {
+//     public int countHillValley(int[] nums) {
+//         int count=0;
+//         for(int i=1;i<nums.length-1;i++){
+//             if(nums[i]==nums[i-1]){
+//                 continue;
+//             }
+//             int left=i-1;
+//             int right=i+1;
+//             while(left>=0 && nums[left]==nums[i]){
+//                 left++;
+//             }
+//             while(right<nums.length && nums[right]==nums[i]){
+//                 right++;
+//             }
+//             if(left>=0 && right<nums.length){
+//                 if(nums[i]>nums[left] && nums[i]>nums[right] || nums[i]<nums[left] && nums[i]<nums[right]){
+//                     count++;
+//                 }
+//             }
+//         }
+//         return count;
+//     }
+// }
+
 class Solution {
-    public int countHillValley(int[] nums) {
+    public static int countHillValley(int[] nums) {
         int count=0;
+        int j=0;
         for(int i=1;i<nums.length-1;i++){
-            if(nums[i]==nums[i-1]){
+            if(nums[i]==nums[i+1]){
                 continue;
             }
-            int left=i-1;
-            int right=i+1;
-            while(left>=0 && nums[left]==nums[i]){
-                left++;
+            if(nums[j]>nums[i] && nums[i]<nums[i + 1]){
+                count++;
             }
-            while(right<nums.length && nums[right]==nums[i]){
-                right++;
+            if(nums[j]<nums[i] && nums[i]>nums[i + 1]){
+                count++;
             }
-            if(left>=0 && right<nums.length){
-                if(nums[i]>nums[left] && nums[i]>nums[right] || nums[i]<nums[left] && nums[i]<nums[right]){
-                    count++;
-                }
-            }
+            j=i;
         }
         return count;
     }
