@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ritiknishad043/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1002-find-common-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/ritiknishad043/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
