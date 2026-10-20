@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3912-valid-elements-in-an-array](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [4020-elevator-requests-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/ritiknishad043/leetcode-solutions/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/ritiknishad043/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Greedy
 |  |
 | ------- |
